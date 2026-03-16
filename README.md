@@ -5,7 +5,7 @@ Data Engineer | Backend Systems | Distributed Data Processing
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/alokraj10/alokraj10/main/Git_profile.jpg" width="220"/>
+<img src="https://raw.githubusercontent.com/alokraj10/alokraj10/main/Git_profile.jpeg" width="220"/>
 </p>
 
 <p align="center">
