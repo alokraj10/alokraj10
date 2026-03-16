@@ -47,3 +47,46 @@ Data Engineer | Backend Systems | Distributed Data Processing
 ---
 
 ## 🔧 Data Engineering Workflow I Work With
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alokraji10&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokraji10&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokraji10&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- Distributed Data Systems  
+- ETL Pipeline Architecture  
+- Data Lake & Data Warehouse Systems  
+- Real-time Data Processing  
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com  
+Email: yourmail@gmail.com
+
+---
+
+⭐ **Interested in Data Engineering, Backend Systems & Scalable Data Platforms**
