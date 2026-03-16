@@ -50,7 +50,7 @@ Building scalable data systems, ETL pipelines and distributed architectures.
 
 ---
 
-## 🔧 Data Engineering Workflow
+
 
 
 
@@ -89,8 +89,8 @@ Building scalable data systems, ETL pipelines and distributed architectures.
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOURUSERNAME  
-Email: yourmail@gmail.com  
+LinkedIn: https://www.linkedin.com/in/alok-raj-7972b527a/
+Email: alokrajrnc629@gmail.com  
 
 ---
 
